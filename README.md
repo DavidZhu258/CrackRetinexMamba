@@ -54,25 +54,25 @@
 </tr>
 <tr>
 <td><img src="data/prediction_results/kaggle_cracks/00014_original.jpg" width="250"/></td>
-<td><img src="data/prediction_results/kaggle_cracks/00014_enhanced.png" width="250"/></td>
+<td><img src="data/prediction_results/kaggle_cracks/00014_enhanced.jpg" width="250"/></td>
 <td><img src="data/prediction_results/kaggle_cracks/00014_prediction.png" width="250"/></td>
 <td><img src="data/prediction_results/kaggle_cracks/00014_visualization.jpg" width="250"/></td>
 </tr>
 <tr>
 <td><img src="data/prediction_results/kaggle_cracks/00015_original.jpg" width="250"/></td>
-<td><img src="data/prediction_results/kaggle_cracks/00015_enhanced.png" width="250"/></td>
+<td><img src="data/prediction_results/kaggle_cracks/00015_enhanced.jpg" width="250"/></td>
 <td><img src="data/prediction_results/kaggle_cracks/00015_prediction.png" width="250"/></td>
 <td><img src="data/prediction_results/kaggle_cracks/00015_visualization.jpg" width="250"/></td>
 </tr>
 <tr>
 <td><img src="data/prediction_results/kaggle_cracks/00015_original.jpg" width="250"/></td>
-<td><img src="data/prediction_results/kaggle_cracks/00015_enhanced.png" width="250"/></td>
+<td><img src="data/prediction_results/kaggle_cracks/00015_enhanced.jpg" width="250"/></td>
 <td><img src="data/prediction_results/kaggle_cracks/00015_prediction.png" width="250"/></td>
 <td><img src="data/prediction_results/kaggle_cracks/00015_visualization.jpg" width="250"/></td>
 </tr>
 <tr>
 <td><img src="data/prediction_results/kaggle_cracks/00016_original.jpg" width="250"/></td>
-<td><img src="data/prediction_results/kaggle_cracks/00016_enhanced.png" width="250"/></td>
+<td><img src="data/prediction_results/kaggle_cracks/00016_enhanced.jpg" width="250"/></td>
 <td><img src="data/prediction_results/kaggle_cracks/00016_prediction.png" width="250"/></td>
 <td><img src="data/prediction_results/kaggle_cracks/00016_visualization.jpg" width="250"/></td>
 </tr>
