@@ -52,19 +52,19 @@
 <td align="center"><b>Visualization</b></td>
 </tr>
 <tr>
-<td><img src="data/prediction_results/kaggle_cracks/00001_original.jpg" width="400"/></td>
-<td><img src="data/prediction_results/kaggle_cracks/00001_prediction.png" width="400"/></td>
-<td><img src="data/prediction_results/kaggle_cracks/00001_visualization.jpg" width="400"/></td>
+<td><img src="data/prediction_results/kaggle_cracks/00014_original.jpg" width="400"/></td>
+<td><img src="data/prediction_results/kaggle_cracks/00014_prediction.png" width="400"/></td>
+<td><img src="data/prediction_results/kaggle_cracks/00014_visualization.jpg" width="400"/></td>
 </tr>
 <tr>
-<td><img src="data/prediction_results/kaggle_cracks/00002_original.jpg" width="400"/></td>
-<td><img src="data/prediction_results/kaggle_cracks/00002_prediction.png" width="400"/></td>
-<td><img src="data/prediction_results/kaggle_cracks/00002_visualization.jpg" width="400"/></td>
+<td><img src="data/prediction_results/kaggle_cracks/00015_original.jpg" width="400"/></td>
+<td><img src="data/prediction_results/kaggle_cracks/00015_prediction.png" width="400"/></td>
+<td><img src="data/prediction_results/kaggle_cracks/00015_visualization.jpg" width="400"/></td>
 </tr>
 <tr>
-<td><img src="data/prediction_results/kaggle_cracks/00003_original.jpg" width="400"/></td>
-<td><img src="data/prediction_results/kaggle_cracks/00003_prediction.png" width="400"/></td>
-<td><img src="data/prediction_results/kaggle_cracks/00003_visualization.jpg" width="400"/></td>
+<td><img src="data/prediction_results/kaggle_cracks/00016_original.jpg" width="400"/></td>
+<td><img src="data/prediction_results/kaggle_cracks/00016_prediction.png" width="400"/></td>
+<td><img src="data/prediction_results/kaggle_cracks/00016_visualization.jpg" width="400"/></td>
 </tr>
 </table>
 
