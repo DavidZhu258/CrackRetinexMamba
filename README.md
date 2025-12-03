@@ -48,21 +48,31 @@
 <table>
 <tr>
 <td align="center"><b>Original</b></td>
+<td align="center"><b>Enhance</b></td>
 <td align="center"><b>Prediction</b></td>
 <td align="center"><b>Visualization</b></td>
 </tr>
 <tr>
 <td><img src="data/prediction_results/kaggle_cracks/00014_original.jpg" width="400"/></td>
+<td><img src="data/prediction_results/kaggle_cracks/00014_enhanced.png" width="400"/></td>
 <td><img src="data/prediction_results/kaggle_cracks/00014_prediction.png" width="400"/></td>
 <td><img src="data/prediction_results/kaggle_cracks/00014_visualization.jpg" width="400"/></td>
 </tr>
 <tr>
 <td><img src="data/prediction_results/kaggle_cracks/00015_original.jpg" width="400"/></td>
+<td><img src="data/prediction_results/kaggle_cracks/00015_enhanced.png" width="400"/></td>
+<td><img src="data/prediction_results/kaggle_cracks/00015_prediction.png" width="400"/></td>
+<td><img src="data/prediction_results/kaggle_cracks/00015_visualization.jpg" width="400"/></td>
+</tr>
+<tr>
+<td><img src="data/prediction_results/kaggle_cracks/00015_original.jpg" width="400"/></td>
+<td><img src="data/prediction_results/kaggle_cracks/00015_enhanced.png" width="400"/></td>
 <td><img src="data/prediction_results/kaggle_cracks/00015_prediction.png" width="400"/></td>
 <td><img src="data/prediction_results/kaggle_cracks/00015_visualization.jpg" width="400"/></td>
 </tr>
 <tr>
 <td><img src="data/prediction_results/kaggle_cracks/00016_original.jpg" width="400"/></td>
+<td><img src="data/prediction_results/kaggle_cracks/00016_enhanced.png" width="400"/></td>
 <td><img src="data/prediction_results/kaggle_cracks/00016_prediction.png" width="400"/></td>
 <td><img src="data/prediction_results/kaggle_cracks/00016_visualization.jpg" width="400"/></td>
 </tr>
@@ -73,20 +83,24 @@
 <table>
 <tr>
 <td align="center"><b>Original</b></td>
+<td align="center"><b>Enhance</b></td>
 <td align="center"><b>Prediction</b></td>
 <td align="center"><b>Visualization</b></td>
 </tr>
 <tr>
 <td><img src="data/prediction_results/kaggle_iron/3d6fc6cb2_original.jpg" width="400"/></td>
+<td><img src="data/prediction_results/kaggle_iron/3d6fc6cb2_enhanced.jpg" width="400"/></td>
 <td><img src="data/prediction_results/kaggle_iron/3d6fc6cb2_prediction.png" width="400"/></td>
 <td><img src="data/prediction_results/kaggle_iron/3d6fc6cb2_visualization.jpg" width="400"/></td>
 </tr>
 <tr>
 <td><img src="data/prediction_results/kaggle_iron/3d7d0609f_original.jpg" width="400"/></td>
+<td><img src="data/prediction_results/kaggle_iron/3d7d0609f_enhanced.jpg" width="400"/></td>
 <td><img src="data/prediction_results/kaggle_iron/3d7d0609f_prediction.png" width="400"/></td>
 <td><img src="data/prediction_results/kaggle_iron/3d7d0609f_visualization.jpg" width="400"/></td>
 </tr>
 <td><img src="data/prediction_results/kaggle_iron/3d8f3ef8c_original.jpg" width="400"/></td>
+<td><img src="data/prediction_results/kaggle_iron/3d8f3ef8c_enhanced.jpg" width="400"/></td>
 <td><img src="data/prediction_results/kaggle_iron/3d8f3ef8c_prediction.png" width="400"/></td>
 <td><img src="data/prediction_results/kaggle_iron/3d8f3ef8c_visualization.jpg" width="400"/></td>
 </tr>
@@ -97,16 +111,19 @@
 <table>
 <tr>
 <td align="center"><b>Original</b></td>
+<td align="center"><b>Enhanced</b></td>
 <td align="center"><b>Prediction</b></td>
 <td align="center"><b>Visualization</b></td>
 </tr>
 <tr>
 <td><img src="data/prediction_results/kaggle_wood/99900054_original.jpg" width="400"/></td>
+<td><img src="data/prediction_results/kaggle_wood/99900054_enhanced.jpg" width="400"/></td>
 <td><img src="data/prediction_results/kaggle_wood/99900054_prediction.png" width="400"/></td>
 <td><img src="data/prediction_results/kaggle_wood/99900054_visualization.jpg" width="400"/></td>
 </tr>
 <tr>
 <td><img src="data/prediction_results/kaggle_wood/99900055_original.jpg" width="400"/></td>
+<td><img src="data/prediction_results/kaggle_wood/99900055_enhanced.jpg" width="400"/></td>
 <td><img src="data/prediction_results/kaggle_wood/99900055_prediction.png" width="400"/></td>
 <td><img src="data/prediction_results/kaggle_wood/99900055_visualization.jpg" width="400"/></td>
 </tr>
