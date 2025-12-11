@@ -65,10 +65,10 @@
 <td><img src="data/prediction_results/kaggle_cracks/00015_visualization.jpg" width="250"/></td>
 </tr>
 <tr>
-<td><img src="data/prediction_results/kaggle_cracks/00015_original.jpg" width="250"/></td>
-<td><img src="data/prediction_results/kaggle_cracks/00015_enhanced.jpg" width="250"/></td>
-<td><img src="data/prediction_results/kaggle_cracks/00015_prediction.png" width="250"/></td>
-<td><img src="data/prediction_results/kaggle_cracks/00015_visualization.jpg" width="250"/></td>
+<td><img src="data/prediction_results/kaggle_cracks/00017_original.jpg" width="250"/></td>
+<td><img src="data/prediction_results/kaggle_cracks/00017_enhanced.jpg" width="250"/></td>
+<td><img src="data/prediction_results/kaggle_cracks/00017_prediction.png" width="250"/></td>
+<td><img src="data/prediction_results/kaggle_cracks/00017_visualization.jpg" width="250"/></td>
 </tr>
 <tr>
 <td><img src="data/prediction_results/kaggle_cracks/00016_original.jpg" width="250"/></td>
