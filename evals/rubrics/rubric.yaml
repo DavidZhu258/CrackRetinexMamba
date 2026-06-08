@@ -1,0 +1,26 @@
+repo: "CrackRetinexMamba"
+eval_type: "cv_segmentation"
+schema: "cv_segmentation_case.schema.json"
+gold_target: "500+ images"
+scoring:
+  accuracy_weight: 0.70
+  feasibility_weight: 0.30
+  seed_suite_required: true
+  hard_negatives_required: true
+metrics:
+  - miou
+  - dice_f1
+  - precision
+  - recall
+  - boundary_f_score
+  - fps
+  - vram_mb
+reporting_fields:
+  - run_id
+  - git_commit
+  - dataset_version
+  - accuracy_summary
+  - feasibility_summary
+  - failures
+  - cost
+  - latency
