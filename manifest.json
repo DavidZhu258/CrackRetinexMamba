@@ -1,0 +1,20 @@
+{
+  "repo": "CrackRetinexMamba",
+  "url": "https://github.com/DavidZhu258/CrackRetinexMamba",
+  "tier": "A-core",
+  "priority_score": 90,
+  "project_bucket": "Computer vision research / crack segmentation",
+  "eval_type": "cv_segmentation",
+  "gold_target": "500+ images",
+  "seed_case_count": 3,
+  "local_target_detected": "E:\\python_project\\CrackRetinexMamba",
+  "files": [
+    "gold_testset_plan.md",
+    "evals/README.md",
+    "evals/gold/seed_gold.jsonl",
+    "evals/gold/full_gold.jsonl",
+    "evals/gold/annotation_template.csv",
+    "evals/rubrics/rubric.yaml",
+    "evals/scripts/README.md"
+  ]
+}

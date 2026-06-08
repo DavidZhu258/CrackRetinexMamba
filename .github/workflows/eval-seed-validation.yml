@@ -1,0 +1,28 @@
+name: Eval Seed Validation
+
+on:
+  push:
+    paths:
+      - 'evals/**'
+      - '.github/workflows/eval-seed-validation.yml'
+  pull_request:
+    paths:
+      - 'evals/**'
+      - '.github/workflows/eval-seed-validation.yml'
+  workflow_dispatch:
+
+jobs:
+  validate-seed-gold:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Validate seed gold cases
+        run: python evals/scripts/validate_seed.py
+      - name: Upload eval result artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: eval-seed-validation
+          path: evals/results/latest_seed_validation.json

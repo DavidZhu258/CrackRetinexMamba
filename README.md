@@ -217,3 +217,12 @@ You can install at [Google Drive](https://drive.google.com/drive/folders/17i3EkY
 ⭐ If this project helps you, please give us a Star! ⭐
 
 </div>
+
+## Evaluation Evidence
+
+This repository includes a seed-gold evaluation scaffold under `evals/`.
+
+- Plan: [`gold_testset_plan.md`](gold_testset_plan.md)
+- Current results: [`EVAL_RESULTS.md`](EVAL_RESULTS.md)
+- Latest machine-readable validation: [`evals/results/latest_seed_validation.json`](evals/results/latest_seed_validation.json)
+- GitHub Actions: `Eval Seed Validation`

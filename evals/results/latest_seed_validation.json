@@ -1,0 +1,37 @@
+{
+  "status": "pass",
+  "generated_at": "2026-06-08T17:25:04Z",
+  "repo": "CrackRetinexMamba",
+  "seed_path": "evals\\gold\\seed_gold.jsonl",
+  "seed_case_count": 3,
+  "hard_negative_count": 1,
+  "referenced_file_count": 6,
+  "referenced_files": {
+    "data/cut_picture/kaggle_cracks/00001.jpg": {
+      "size_bytes": 5217,
+      "sha256": "62681cdec3bfcee1210103e1fda8f543d4e92212e202405eb56d9d31507107ee"
+    },
+    "docs/ALGORITHM.md": {
+      "size_bytes": 8605,
+      "sha256": "46c3b2e0930c81c24b870b83214062d9b39fd5575de044ec86aa3eb4bb1d783e"
+    },
+    "eval/evaluate.py": {
+      "size_bytes": 15539,
+      "sha256": "a112eec2a81140b6e5158a4d701115744b52cc128d583c94eda4b40222325241"
+    },
+    "eval/data_io.py": {
+      "size_bytes": 1342,
+      "sha256": "50721163c1570d1818302ca41b279a608ee06746fffbe5b031ecce21ab0e3fd3"
+    },
+    "datasets/crack_dataset.py": {
+      "size_bytes": 2757,
+      "sha256": "de21c14f1bf2ec99a55289daf1befcfb1891f324a0f6a5a2fc5209fe6c642ced"
+    },
+    "eval/test_miou_direct.py": {
+      "size_bytes": 1177,
+      "sha256": "751159ecec333b15cfe2418cca7cd4e141b896d3e872aa274fe24fe00faaf28f"
+    }
+  },
+  "failures": [],
+  "note": "This validates gold seed traceability and feasibility scaffolding; it does not claim model-quality scores yet."
+}
